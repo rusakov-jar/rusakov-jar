@@ -6,6 +6,3 @@
 - **Технологии:** WinForms, SharpGL, PostgreSQL, Git
 - **Сетевые технологии:** Сертификат "Основы сетевых технологий" от Элтекс
 
-## 📂 Основные проекты:
-- `elliptic-boundary-problem-solver` — Дипломный проект (C#, WinForms, SharpGL)
-- `university-labs` — Лабораторные работы по алгоритмам (C++) и нейросетям (Python)
